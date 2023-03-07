@@ -326,5 +326,9 @@ tr td , th {
   .popup__list {
     margin-left: 0px;
   }
+
+  .popup__table {
+    width: 100%;
+  }
 }
 
