@@ -250,6 +250,7 @@ details[open] summary:after {
   margin-bottom: 20px;
   width: 80%;
   text-align: center;
+  vertical-align: top;
 }
 
 tr td , th {
