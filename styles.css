@@ -330,6 +330,7 @@ tr td , th {
 
   .popup__table {
     width: 100%;
+    vertical-align: top;
   }
 }
 
