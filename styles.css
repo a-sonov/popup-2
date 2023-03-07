@@ -245,6 +245,49 @@ details[open] summary:after {
   float: center;
   font-size: 18px;
 }
+.popup__table {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 80%;
+  text-align: center;
+}
+
+tr td , th {
+  border-bottom: 1px solid #c9c9c9;
+}
+
+.popup__button__terms {
+  width: 100%;
+  width: 116px;
+  height: 52px;
+  background: #EC610A;
+  border-radius: 12px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 20px;
+  text-align: center;
+  font-feature-settings: 'cpsp' on;
+  color: #FFFFFF;
+  mix-blend-mode: normal;
+  padding: 16px 24px;
+  margin-top: 32px;
+  margin-right: 32px;
+  margin-bottom: 36px;
+  text-decoration: none;
+  border: 0px;
+}
+
+.popup_tb_left {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.popup_tb_right {
+  text-align: right;
+  padding-right: 20px;
+}
 
 @media screen and (max-width: 640px) {
   
